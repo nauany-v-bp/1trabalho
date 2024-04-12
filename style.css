@@ -1,0 +1,99 @@
+header {
+    background-color: #424E61;
+    color: white;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho {
+    background-color: #e27d0a;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.lasanha-imagem{
+    width: 40%;
+}
+
+.lasanha{
+    background-image: linear-gradient(#e27d0a, #eba14e);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.lasanha-div-conteudo{
+    width: 35%;
+}
+
+.lasanha-titulo{
+    padding: 24px 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.gastronomia-imagem{
+    width: 30%;
+    margin: 40px;
+}
+
+.gastronomia{
+    color: rgb(49, 49, 49);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.gastronomia-div-conteudo{
+    text-align: justify;
+    margin: 40px;
+}
+
+.gastronomia-titulo{
+    padding: 24px 0;
+    margin: 15px;
+}
+
+.rodape{
+    background-image: linear-gradient(white, #e27d0a);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 120px;
+    padding: 24px 0;
+}
+
+.texto-um-footer{
+    color: white;
+}
+
+.link-github{
+    color: white;
+}
